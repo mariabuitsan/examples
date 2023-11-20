@@ -62,9 +62,17 @@ li{
 h2{
     color: #A21DF4;
     font-family: Inter;
-    font-size: 25px;
-    font-weight: 400;
+    font-size: 30px;
+    font-weight: 600;
     padding-top: 15px;
+    padding-left: 15px;
+}
+h3{
+    color: #28b84f;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 5px;
     padding-left: 15px;
 }
 .cards{
